@@ -115,30 +115,6 @@ The application will run on:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-- Home Page
-- Add Customer
-- Customer List
-
----
-
-## 📌 Future Enhancements
-
-- ✏️ Update/Edit customer details
-- 🔍 Search customers
-- 📊 Dashboard with analytics
-- 🔐 User Authentication (JWT)
-- 📧 Email notifications
-- 📄 Pagination and filtering
-- 📥 Export customer records to Excel/PDF
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -151,17 +127,7 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Developed By
-
-**Chigurupati Satwika**
-
-B.Tech Student | MERN Stack Developer
 
 ---
 ⭐ If you found this project useful, don't forget to give it a star!
