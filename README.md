@@ -129,5 +129,3 @@ Contributions are welcome!
 
 
 
----
-⭐ If you found this project useful, don't forget to give it a star!
